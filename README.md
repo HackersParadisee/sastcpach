@@ -35,7 +35,7 @@ sudo apt install hydra crackmapexec
    ```
 2. Make the `sastcpach.sh` script executable:
    ```bash
-   chmod +x aastcpach.sh
+   chmod +x sastcpach.sh
    ```
 
 ### **Usage**
